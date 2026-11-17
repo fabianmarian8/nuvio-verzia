@@ -1,2 +1,2 @@
-verzia=1.1.37
+verzia=test
 aktualizovane=2026-11-17
