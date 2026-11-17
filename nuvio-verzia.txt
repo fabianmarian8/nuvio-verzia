@@ -1,0 +1,2 @@
+verzia=1.1.37
+aktualizovane=2026-11-17
